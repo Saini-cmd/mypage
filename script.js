@@ -1,1 +1,1 @@
-alert(`This is from 'new' branch and this is new text`);
+alert(`The entire line is updated in 'new' branch`);
