@@ -1,1 +1,2 @@
-alert(`The entire line is updated in 'new' branch`);
+let x = 12;
+console.log(x);
